@@ -1,0 +1,7 @@
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task7\WDCheWei-task7\bin\Debug\WDCheWei-task7.exe.config
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task7\WDCheWei-task7\bin\Debug\WDCheWei-task7.exe
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task7\WDCheWei-task7\bin\Debug\WDCheWei-task7.pdb
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task7\WDCheWei-task7\obj\Debug\WDCheWei-task7.csprojAssemblyReference.cache
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task7\WDCheWei-task7\obj\Debug\WDCheWei-task7.csproj.CoreCompileInputs.cache
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task7\WDCheWei-task7\obj\Debug\WDCheWei-task7.exe
+C:\Users\Käyttäjä\Documents\Web Development\WDCheWei-task7\WDCheWei-task7\obj\Debug\WDCheWei-task7.pdb
